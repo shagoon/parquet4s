@@ -16,7 +16,7 @@ val pekkoLib = ActorLibCross("-pekko", "-pekko")
 ThisBuild / organization := "com.github.mjakubowski84"
 ThisBuild / organizationName := "mjakubowski84"
 ThisBuild / organizationHomepage := Some(url("https://github.com/mjakubowski84"))
-ThisBuild / version := "2.23.0"
+ThisBuild / version := "2.23.0-SNAPSHOT"
 ThisBuild / isSnapshot := false
 ThisBuild / scalaVersion := twoThirteen
 
